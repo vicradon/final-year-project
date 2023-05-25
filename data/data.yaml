@@ -1,0 +1,15 @@
+names:
+  - knife
+  - masked-person
+  - pistol
+  - rifle
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: masked-armed-bandits
+  url: https://universe.roboflow.com/finalyearproject-axe8j/masked-armed-bandits/dataset/1
+  version: 1
+  workspace: finalyearproject-axe8j
+test: ../test/images
+train: Masked-Armed-Bandits--1/train/images
+val: Masked-Armed-Bandits--1/valid/images
